@@ -1,2 +1,3 @@
-# bookmailer
-Every day you receive one page from a book to read
+# habitmailer
+
+E-mails to keep you focused
